@@ -20,4 +20,4 @@ This is the script that I wrote in R Studio, you can load it and run it to gener
 
 Grazie per l'attenzione :blush:
 
-[Lorenzo Magni](https://instagram.com/lorenzomagni97)
+[Lorenzo Magni](https://www.linkedin.com/in/lorenzomagni97/)
