@@ -16,6 +16,4 @@ This is my final report, it's a complete document containing my analysis of the 
 ## File: "R Script progetto Business Lorenzo Magni.R"
 This is the script that I wrote in R Studio, you can load it and run it to generate all the data that I used in my report. Graphs and tables have all been generated using R Studio and my script.
 
-Grazie per l'attenzione :blush:
-
 [Lorenzo Magni](https://www.linkedin.com/in/lorenzomagni97/)
